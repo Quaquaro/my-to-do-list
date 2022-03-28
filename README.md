@@ -1,3 +1,6 @@
+# SVELTE Tutorial
+This is the result of a SVELTE tutorial by James Q Quick.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
